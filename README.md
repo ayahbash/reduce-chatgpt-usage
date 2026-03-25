@@ -1,34 +1,37 @@
-# reduce chatgpt usage
+# Reduce ChatGPT Usage
 
-a minimal chrome & firefox extension that aims to help you reduce your usage of **chatgpt**.
+This extension aims to help you reduce your usage of ChatGPT.
 
-## usage
+## How to use
 
-### chrome
+### Chrome
 
-1. clone this repository
+1. Clone this repository
 
 ```bash
-git clone https://github.com/ayahbash/reduce-chatgpt-usage.git
-cd reduce-chatgpt-usage
+git clone https://github.com/FujiwaraChoki/reduce-chatgpt-usage.git
+explorer reduce-chatgpt-usage
 ```
 
-2. open chrome → `chrome://extensions/`
-3. enable `developer mode`
-4. click `load unpacked` → select this folder
-5. open chatgpt and test the extension
+2. Open Chrome
+3. Go to `chrome://extensions/`
+4. Enable `Developer mode`
+5. Click `Load unpacked`
+6. Select the folder `reduce-chatgpt-usage`
+7. Open ChatGPT and test the extension
 
-### firefox
+### Firefox
 
-1. open firefox → `about:debugging#/runtime/this-firefox`
-2. click load temporary add-on → select `manifest.json`
-3. open chatgpt and test
+1. Open Firefox
+2. Go to `about:debugging#/runtime/this-firefox`
+3. Click **Load Temporary Add-on…**
+4. Select `manifest.json`
+5. Open ChatGPT and test the extension
 
-## contributors
+## Contributors
 
-* [FujiwaraChoki](https://github.com/FujiwaraChoki) (original)
-* [ayahbash](https://github.com/YOUR_GITHUB_USERNAME) (cross-browser update)
+* [FujiwaraChoki](https://github.com/FujiwaraChoki)
 
-## license
+## License
 
-agpl-3.0
+Licensed under AGPL-3.0. See [LICENSE](LICENSE) for more information.
