@@ -1,6 +1,6 @@
 # reduce chatgpt usage
 
-a minimal chrome & firefox extension to gently remind you before using chatgpt.
+a minimal chrome & firefox extension that aims to help you reduce your usage of ChatGPT.
 
 ## features
 
