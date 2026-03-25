@@ -1,26 +1,40 @@
-# Reduce ChatGPT Usage
+# reduce chatgpt usage
 
-This extensions aims to help you to reduce your Usage of ChatGPT.
+a minimal chrome & firefox extension to gently remind you before using chatgpt.
 
-## How to use
+## features
 
-1. Clone this repository
+* works on chrome and firefox
+* shows a small popup with two options: close or redirect
+* simple, clean design
+
+## usage
+
+### chrome
+
+1. clone this repository
+
 ```bash
-git clone https://github.com/FujiwaraChoki/reduce-chatgpt-usage.git
-explorer reduce-chatgpt-usage
+git clone https://github.com/ayahbash/reduce-chatgpt-usage.git
+cd reduce-chatgpt-usage
 ```
 
-2. Open Chrome
-3. Go to `chrome://extensions/`
-4. Enable `Developer mode`
-5. Click `Load unpacked`
-6. Select the folder `reduce-chatgpt-usage`
-7. Open ChatGPT and test the extension
+2. open chrome → `chrome://extensions/`
+3. enable `developer mode`
+4. click `load unpacked` → select this folder
+5. open chatgpt and test the extension
 
-## Contributors
+### firefox
 
-- [FujiwaraChoki](https://github.com/FujiwaraChoki)
+1. open firefox → `about:debugging#/runtime/this-firefox`
+2. click load temporary add-on → select `manifest.json`
+3. open chatgpt and test
 
-## License
+## contributors
 
-Licensed under AGPL-3.0. See [LICENSE](LICENSE) for more information.
+* [FujiwaraChoki](https://github.com/FujiwaraChoki) (original)
+* [ayahbash](https://github.com/YOUR_GITHUB_USERNAME) (cross-browser update)
+
+## license
+
+agpl-3.0

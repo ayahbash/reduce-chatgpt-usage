@@ -59,7 +59,7 @@ option1.addEventListener('click', function () {
 });
 
 option2.addEventListener('click', function () {
-  window.location.href = 'https://youtu.be/KvK_d9edjPM?si=45eAEFowvcAOfJ6y';
+  window.location.href = 'https://youtu.be/jmfQL-yWlD4?si=cxmc5JWXKw0hhpSt';
   closePopup();
 });
 
