@@ -1,12 +1,6 @@
 # reduce chatgpt usage
 
-a minimal chrome & firefox extension that aims to help you reduce your usage of ChatGPT.
-
-## features
-
-* works on chrome and firefox
-* shows a small popup with two options: close or redirect
-* simple, clean design
+a minimal chrome & firefox extension that aims to help you reduce your usage of **chatgpt**.
 
 ## usage
 
